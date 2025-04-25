@@ -1,3 +1,5 @@
+export const COMMON_ERROR_MESSAGE = 'Operation failed';
+
 // FS
 export const FS_ERROR_MESSAGE = 'FS operation failed'
 export const FS_CREATE_FILE_NAME = 'fresh.txt'
@@ -12,3 +14,6 @@ export const FILE_TO_READ_NAME = 'fileToRead.txt'
 // CLI
 export const RSS_DEPRECATED_PREFIX = 'RSS_'
 export const ARG_PREFIX = '--'
+
+//HASH
+export const FILE_TO_CALCULATE_HASH = 'fileToCalculateHashFor.txt'
