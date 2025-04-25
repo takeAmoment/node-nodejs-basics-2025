@@ -11,3 +11,4 @@ export const FILE_TO_READ_NAME = 'fileToRead.txt'
 
 // CLI
 export const RSS_DEPRECATED_PREFIX = 'RSS_'
+export const ARG_PREFIX = '--'
