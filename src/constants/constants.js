@@ -9,3 +9,5 @@ export const PROPER_FILE_NAME = 'properFilename.md'
 export const FILE_TO_REMOVE_NAME = 'fileToRemove.txt'
 export const FILE_TO_READ_NAME = 'fileToRead.txt'
 
+// CLI
+export const RSS_DEPRECATED_PREFIX = 'RSS_'
