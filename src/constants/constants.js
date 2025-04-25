@@ -7,5 +7,5 @@ export const FS_COPY_FOLDER_NAME = 'files_copy'
 export const WRONG_FILE_NAME = 'wrongFilename.txt'
 export const PROPER_FILE_NAME = 'properFilename.md'
 export const FILE_TO_REMOVE_NAME = 'fileToRemove.txt'
-
+export const FILE_TO_READ_NAME = 'fileToRead.txt'
 
