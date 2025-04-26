@@ -27,3 +27,7 @@ export const STREAMS_FILE_TO_WRITE = 'fileToWrite.txt'
 export const ZLIB_FILE_TO_COMPRESS = 'fileToCompress.txt'
 export const ZLIB_COMPESSED_FILE_NAME = 'archive.gz'
 export const ZLIB_FOLDER_NAME = 'files'
+
+// WT
+export const START_WORKER_DATA_VALUE = 10
+export const WORKER_FILE_NAME = 'worker.js'
