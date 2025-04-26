@@ -17,3 +17,7 @@ export const ARG_PREFIX = '--'
 
 //HASH
 export const FILE_TO_CALCULATE_HASH = 'fileToCalculateHashFor.txt'
+
+// STREAMS
+export const STREAMS_FILE_TO_READ = 'fileToRead.txt' 
+export const STREAMS_FOLDER_NAME = 'files'
