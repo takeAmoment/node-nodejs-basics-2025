@@ -22,3 +22,8 @@ export const FILE_TO_CALCULATE_HASH = 'fileToCalculateHashFor.txt'
 export const STREAMS_FILE_TO_READ = 'fileToRead.txt' 
 export const STREAMS_FOLDER_NAME = 'files'
 export const STREAMS_FILE_TO_WRITE = 'fileToWrite.txt'
+
+// ZLIB
+export const ZLIB_FILE_TO_COMPRESS = 'fileToCompress.txt'
+export const ZLIB_COMPESSED_FILE_NAME = 'archive.gz'
+export const ZLIB_FOLDER_NAME = 'files'
