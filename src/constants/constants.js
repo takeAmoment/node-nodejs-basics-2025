@@ -31,3 +31,7 @@ export const ZLIB_FOLDER_NAME = 'files'
 // WT
 export const START_WORKER_DATA_VALUE = 10
 export const WORKER_FILE_NAME = 'worker.js'
+
+//CP
+export const CP_FILE_NAME = 'script.js'
+export const CP_FOLDER_NAME = 'files'
