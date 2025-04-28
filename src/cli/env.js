@@ -1,4 +1,5 @@
 import process from 'process'
+
 import { RSS_DEPRECATED_PREFIX } from '../constants/constants.js';
 
 const parseEnv = () => {

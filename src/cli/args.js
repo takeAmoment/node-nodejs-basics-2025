@@ -13,7 +13,7 @@ const parseArgs = () => {
 
   const result = argsValues.join(', ')
 
-  console.log(result)
+  console.log('Arguments:', result)
 }
 
 parseArgs()
