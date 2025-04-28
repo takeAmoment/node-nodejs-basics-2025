@@ -13,7 +13,6 @@ const performCalculations = async () => {
   const workerFilePath = findPath(import.meta.url, WORKER_FILE_NAME)
   const cpusArr = Array.from({length: cpus().length})
   const promisesArr = []
-  console.log(cpusArr)
 
   cpusArr.forEach((_, index) => {
     const worker = new Worker(workerFilePath)
